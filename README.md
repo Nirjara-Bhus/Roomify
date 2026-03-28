@@ -40,7 +40,7 @@ AI-powered architectural visualization SaaS built with React, TypeScript, and Pu
 👉 **Modern Export Functionality**: High-performance tools to download and move AI-generated renders into real-world presentations and workflows.
 
 
-And many more, including code architecture and reusability.>
+And many more, including code architecture and reusability.
 
 # Run and deploy your Roomify app
 
